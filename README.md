@@ -1,8 +1,5 @@
 
 
-## Participant Information![Screenshot (110)](https://github.com/chaitrareddy1/CODETECH--Task1/assets/158550795/e3101590-d0c7-4b91-ab39-6a070db44d01)
-![Screenshot (109)](https://github.com/chaitrareddy1/CODETECH--Task1/assets/158550795/df2d9351-6824-4a68-9658-4c1bc6dbf634)
-![Screenshot (108)](https://github.com/chaitrareddy1/CODETECH--Task1/assets/158550795/71a90fef-e2ba-4422-be0a-6b6b1770767e)
 
 
 - **Name**: CHAITRA P
@@ -38,3 +35,6 @@ Linear regression to predict housing prices based on features like square footag
 - **Matplotlib**: Plotting library for creating static, interactive, and animated visualizations in Python.
 - **Seaborn**: Statistical data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 - **Scikit-learn**: Machine learning library that provides simple and efficient tools for data mining and data analysis. It includes modules for data loading, preprocessing, model selection, training, and evaluation.
+## output![Screenshot (110)](https://github.com/chaitrareddy1/CODETECH--Task1/assets/158550795/e3101590-d0c7-4b91-ab39-6a070db44d01)
+![Screenshot (109)](https://github.com/chaitrareddy1/CODETECH--Task1/assets/158550795/df2d9351-6824-4a68-9658-4c1bc6dbf634)
+![Screenshot (108)](https://github.com/chaitrareddy1/CODETECH--Task1/assets/158550795/71a90fef-e2ba-4422-be0a-6b6b1770767e)
