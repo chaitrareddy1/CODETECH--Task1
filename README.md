@@ -6,7 +6,7 @@
 - **Mentor**: [Mentor's Name]
 
 ## Project Overview
-###Project: Linear regression on California Housing dataset.
+##Project: Linear regression on California Housing dataset.
 ###Objecctive:
 Linear regression to predict housing prices based on features like square footage, number of bedrooms, and location. Use a dataset California Housing dataset for training and evaluation.
 ###Key Activities:
