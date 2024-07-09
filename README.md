@@ -1,6 +1,3 @@
-# Project Title
-
-## Participant Information
 
 - **Name**: Chaitra P
 - **Company**: CODETECH IT SOLUTIONS
